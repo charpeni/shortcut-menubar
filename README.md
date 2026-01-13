@@ -6,6 +6,10 @@ A native macOS menu bar app for [Shortcut](https://shortcut.com) that gives you 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+  <img height="400"  alt="Shortcut Menu Bar App" src="https://github.com/user-attachments/assets/1412263e-b4f2-41d2-812c-26c83b6ed64d" />
+</p>
+
 ## Features
 
 - View all stories assigned to you, sorted by workflow state (Started → Unstarted → Backlog)
@@ -18,10 +22,6 @@ A native macOS menu bar app for [Shortcut](https://shortcut.com) that gives you 
 - Auto-refresh when opening the menu
 - Launch at login support
 - Native macOS design with light/dark mode support
-
-## Screenshots
-
-_Coming soon_
 
 ## Installation
 
